@@ -1,0 +1,27 @@
+body {
+    background-color: #f0f2f5;
+    font-family:  Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 10px;
+    color: #1c1e21;
+    height: 100vh;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    margin-bottom: 300px;
+}
+.left-section {
+    width: 320px;
+    margin-right: 80px;
+}
+.left-section > h1 {
+    color: #0866ff;
+    font-size: 43px;
+}
+.left-section > p {
+    font-size: 18px;
+    line-height: 20px;
+}

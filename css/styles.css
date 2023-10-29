@@ -1,0 +1,31 @@
+.btn {
+    color: white;
+    height: 35px;
+    margin: 5px 10px;
+    cursor: pointer;
+}
+.subscribe-btn {
+    background-color: red;
+    border: none;
+    width: 110px;
+}
+.join-btn {
+    background-color: white;
+    color: blue;
+    border-color: blue;
+    border: 1px solid blue;
+    width: 60px;
+    transition: background-color 0.20s;
+}
+.tweet-btn {
+    background-color: #1D9BF0;
+    border: none;
+    width: 75px;
+    height: 38px;
+    border-radius: 20px;
+    font-weight: 700;
+}
+.join-btn:hover {
+    background-color: blue;
+    color: white;
+}

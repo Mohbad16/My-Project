@@ -1,0 +1,12 @@
+body {
+    background-color: white;
+    background-size: cover;
+    position: relative;
+}
+.container {
+    position: absolute;
+    top: 30%;
+}
+.left-section > h1 {
+    color: blue;
+}

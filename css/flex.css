@@ -1,0 +1,30 @@
+.parent {
+    background-color: brown;
+    height: 1000px;
+    width: 200vh;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    flex-direction: column;
+}
+
+.child {
+    height: 300px;
+    width: 300px;
+    color: white;
+    text-align: center;
+    margin: 10px;
+}
+
+.child1 {
+    background-color: red;
+    align-self: ;
+}
+
+.child2 {
+    background-color: blue;
+}
+
+.child3 {
+    background-color: green;
+}
